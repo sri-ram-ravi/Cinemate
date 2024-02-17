@@ -1,0 +1,10 @@
+aead2373813b29cd09bf2e776f9de2ee
+
+Base_url=https://api.themoviedb.org/3
+
+search=https://api.themoviedb.org/3/search/movie?query=joe&api_key=aead2373813b29cd09bf2e776f9de2ee
+popular=https://api.themoviedb.org/3/person/popular?api_key=aead2373813b29cd09bf2e776f9de2ee
+upcoming=https://api.themoviedb.org/3/movie/upcoming?api_key=aead2373813b29cd09bf2e776f9de2ee
+top-rated=https://api.themoviedb.org/3/movie/top_rated?api_key=aead2373813b29cd09bf2e776f9de2ee
+now-playing=https://api.themoviedb.org/3/movie/now_playing?api_key=aead2373813b29cd09bf2e776f9de2ee
+show_details=https://api.themoviedb.org/3/movie/12799?api_key=aead2373813b29cd09bf2e776f9de2ee
