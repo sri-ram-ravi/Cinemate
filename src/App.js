@@ -5,7 +5,9 @@ const App = () => {
   return (
     <>
     <Header/>
-      <AllRoutes/>
+      <main>
+        <AllRoutes/>
+      </main>
     <Footer/>
     </>
   )

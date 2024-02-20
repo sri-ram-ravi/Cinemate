@@ -5,6 +5,13 @@
 main{
     max-width: 1280px;
     margin: auto;
-    min-height: 90vh;
+    min-height: 75vh;
     padding: 10px;
+    overflow-x: auto;
+    overflow-y: auto;
+    scroll-behavior: smooth;
+}
+
+main::-webkit-scrollbar {
+    display: none;
 }
