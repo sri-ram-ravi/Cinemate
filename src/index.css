@@ -2,16 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
-main{
-    max-width: 1280px;
-    margin: auto;
-    min-height: 75vh;
-    padding: 10px;
-    overflow-x: auto;
+body{
+    overflow-y: hidden;
+}
+
+main {
+    max-width: 2000px;
+    margin: auto 25px;
+    padding: 20px;
+}
+
+.mainbody{
+    max-height: 85vh;
+    padding: 20px;
     overflow-y: auto;
     scroll-behavior: smooth;
 }
-
-main::-webkit-scrollbar {
+.mainbody::-webkit-scrollbar {
     display: none;
 }
+
+
