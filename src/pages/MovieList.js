@@ -2,7 +2,7 @@ import React from 'react'
 
 const MovieList = () => {
   return (
-    <div className='text-9xl'>MovieList</div>
+    <div>MovieList</div>
   )
 }
 
